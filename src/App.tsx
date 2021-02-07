@@ -12,6 +12,7 @@ function App() {
         </Motion>
           <Motion defaultStyle={{ rotate: 0}} style={{ rotate: spring(180)}}>
             {style => <p style={{transform: `rotate(${style.rotate}deg)`}}>Edit <code>src/App.tsx</code> and save to reload.</p>}
+
           </Motion>
           
         <a
