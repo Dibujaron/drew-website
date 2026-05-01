@@ -14,7 +14,7 @@ A static personal website with no database backend, hosted on GitHub Pages, repl
 - **Framework:** React (SPA)
 - **Routing:** Hash-based (e.g. `#/projects`, `#/words/quotes`) for deep-linkability without server config
 - **Hosting:** GitHub Pages (static build output)
-- **Animation:** TBD — candidates include Framer Motion, react-spring, or a physics library like matter.js
+- **Animation:** Framer Motion (spring physics model, React-native API)
 - **No backend, no database**
 
 ---
@@ -31,7 +31,7 @@ Each letter animation should feel distinct. One example: the **P** in "McPolstra
 
 Letters with sub-menus are slightly visually distinguished at rest — e.g., subtly brighter or a different color weight — so the page isn't completely inert-looking. The color palette for letters and revealed menus is bright and energetic, contrasted against the minimal background.
 
-Inactive letters (D, e, M, o, l, and the second r) are purely decorative.
+Inactive letters (D, e, M, o, l, and the second r) are purely decorative. 'D' is left open for now.
 
 ### Letter-to-Page Mapping
 
@@ -48,7 +48,7 @@ D  r  e  w  M  c  P  o  l  s  t  r  a
 | P | Projects | Collection |
 | s | StarQuest | Article list (Minecraft server project) |
 | t | Tesselations + TripleSeq | Two simultaneous animations branching in different directions; each leads to its own page |
-| a | About | Single page |
+| a | Apartment (tentative) | Gallery / documentation of the apartment |
 
 ---
 
@@ -79,7 +79,7 @@ A list of posts, each rendered from a Markdown file stored in the repo. Sub-page
 - **StarQuest:** Drew's high school Minecraft server project. Article-list format, migrated from drew.polstra.com. Also listed under Projects.
 - **Tesselations:** An art project. Dedicated page, likely gallery-oriented. Also listed under Projects.
 - **TripleSeq:** A TypeScript library. Dedicated page. Shares the 't' letter with Tesselations via a dual-animation: both branch open simultaneously in slightly different directions from the same letter. Also listed under Projects.
-- **About:** Short bio / contact info.
+- **Apartment** *(tentative, 'a'):* Documentation and gallery of Drew and Holly's Civil-War-era loft apartment — notable for being a great space, obtained affordably, and well-decorated.
 
 ---
 
