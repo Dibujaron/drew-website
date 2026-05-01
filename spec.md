@@ -12,7 +12,7 @@ A static personal website with no database backend, hosted on GitHub Pages, repl
 ## Tech Stack
 
 - **Framework:** React (SPA)
-- **Routing:** Hash-based (`#/projects`, `#/blog/post-title`, etc.) for deep-linkability without server config
+- **Routing:** Hash-based (e.g. `#/projects`, `#/some-page/some-post`) for deep-linkability without server config
 - **Hosting:** GitHub Pages (static build output)
 - **Animation:** TBD — candidates include Framer Motion, react-spring, or a physics library like matter.js
 - **No backend, no database**
@@ -47,29 +47,21 @@ On mobile, **"Drew McPolstra"** is laid out vertically (one word per line, or on
 
 ---
 
-## Page Types / Primitives
+## Page Primitives
 
-### Index Page
-Used for sections like **Projects**. Contains:
-- A list of links to sub-pages or external projects
-- Optional: thumbnail images or brief descriptions per item
+There are two reusable page shapes:
 
-### Blog Page
-Used for sections like **Writing** or **Blog**. Contains:
-- A list of posts
-- Each post is a sub-page rendered from a Markdown file
-- No CMS — posts are just `.md` files in the repo
-- Deep-linkable via hash routing (e.g., `#/blog/post-slug`)
+### Collection Page
+A titled list of items with links — used for things like Projects. Each item may have an optional image and short description.
+
+### Article List Page
+A list of posts, each rendered from a Markdown file stored in the repo. Sub-pages are deep-linkable via hash routing. No CMS; content is flat files. Two existing pieces from drew.polstra.com will migrate here.
 
 ---
 
 ## Content / Pages
 
-To be finalized, but will include at minimum:
-
-- **Projects** — portfolio / notable work
-- **Writing / Blog** — posts migrated from drew.polstra.com (a couple of blog-like pieces exist there)
-- Additional pages TBD, mapped creatively to available letters in "Drew McPolstra"
+To be finalized. Will include Projects and at least one article-list section. Specific page names and letter assignments TBD once the full content inventory is known.
 
 ---
 
