@@ -52,6 +52,33 @@ D  r  e  w  M  c  P  o  l  s  t  r  a
 
 ---
 
+## Letter Animations
+
+Each active letter has a unique, physics-inspired Framer Motion animation. All animations reverse on mouse-out. Timing should feel snappy — reveals complete in well under a second.
+
+### r — Resume
+The arch of the 'r' swings outward quickly like a boom or signpost arm. The remaining letters of "Resume" then unspool after it, trailing like a sail filling with wind or letters rolling out on a rope. Fast extension, slower organic trailing.
+
+### P — Projects
+The vertical shaft of the 'P' telescopes downward, the extended portion rendered in a contrasting color to distinguish it from the original upright (avoiding a "Drojects" read). The sub-items are hidden behind the opaque body of the letter at rest; they ride down alongside the telescope as it extends, as if they were always tucked there.
+
+### s — StarQuest
+The 'S' spins around its center like a propeller. As it reaches full spin, sub-items fly outward centrifugally and settle into position. On mouse-out they reel back in and the S decelerates to rest.
+
+### t — Tesselations + TripleSeq
+The crossbar acts as a plunger handle: on hover it charges upward (compressing the stem), then fires downward. Tesselations and TripleSeq shoot out simultaneously from the foot of the stem in slightly divergent directions. Explosive and mechanical.
+
+### Remaining active letters (w, c, a)
+Animations TBD.
+
+---
+
+## Font
+
+**Abril Fatface** (Google Fonts). Ultra-bold Didone — chunky verticals with high-contrast thin horizontals. Gives letter anatomy enough visual mass for animations to read clearly. The name feels minimal and intentional at rest; the stroke contrast makes each letter's mechanical "parts" legible once things start moving.
+
+---
+
 ## Mobile Layout
 
 On mobile, **"Drew McPolstra"** is laid out vertically (one word per line, or one letter per line — TBD). Letter animations open to the **right** rather than downward. Animations will likely need significant adaptation for touch (tap to open/close instead of hover).
