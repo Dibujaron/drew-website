@@ -47,7 +47,7 @@ D  r  e  w  M  c  P  o  l  s  t  r  a
 | c | Courtship | Article list |
 | P | Projects | Collection |
 | s | StarQuest | Article list (Minecraft server project) |
-| t | Tesselations | Dedicated page (art project) |
+| t | Tesselations + TripleSeq | Two simultaneous animations branching in different directions; each leads to its own page |
 | a | About | Single page |
 
 ---
@@ -75,9 +75,10 @@ A list of posts, each rendered from a Markdown file stored in the repo. Sub-page
   - *Quotes:* Running list of notable quotes from Drew's reading. To be more prominently featured than in the previous site.
   - *Short Stories:* A small number of original short stories; article-list format.
 - **Courtship:** Blog-like narrative of Drew and Holly's relationship up to their engagement. Article-list format, migrated from drew.polstra.com.
-- **Projects:** Portfolio-style collection of notable work. Currently stale; to be refreshed.
-- **StarQuest:** Drew's high school Minecraft server project. Article-list format, migrated from drew.polstra.com.
-- **Tesselations:** An art project. Dedicated page, likely gallery-oriented.
+- **Projects:** Portfolio-style collection of notable work, to be refreshed. Serves as the canonical index of serious work — includes TripleSeq, Tesselations, StarQuest, and the game projects (OpenTTD, Cities Skylines, Minecraft's Create Mod) as entries. The individual letters 't' and 's' are direct-access shortcuts into those same pages, not separate content.
+- **StarQuest:** Drew's high school Minecraft server project. Article-list format, migrated from drew.polstra.com. Also listed under Projects.
+- **Tesselations:** An art project. Dedicated page, likely gallery-oriented. Also listed under Projects.
+- **TripleSeq:** A TypeScript library. Dedicated page. Shares the 't' letter with Tesselations via a dual-animation: both branch open simultaneously in slightly different directions from the same letter. Also listed under Projects.
 - **About:** Short bio / contact info.
 
 ---
