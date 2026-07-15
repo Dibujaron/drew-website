@@ -20,3 +20,7 @@ Then if you repeat this process with a bunch of adjacent polygons, you get a tes
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/fafbfb92-ee65-4ed4-aa1f-b1ab8a5c235c/algorithm.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/ee6f0a76-1651-400d-88c6-be4d67336159/algorithm.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/53bc017f-1870-4259-a7a2-6a9258cd9a9a/algorithm.png
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6376f5caac87527092a5260c/1668742009560/ (FEATURED)

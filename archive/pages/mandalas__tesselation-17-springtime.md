@@ -12,3 +12,7 @@ This one was yet another attempt to make a contrasting story. I think it was mar
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1619479149611-390WLBX9EKA3V943U82R/springtime_small.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/63389ba8869da07251b5c721/1664654410475/ (FEATURED)

@@ -16,3 +16,7 @@ By the point of #3, I understood enough of the rules to make something semi-cohe
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1610237084926-B3QKHD6T6IW9AFD2CK2Z/IMG_4533.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6338967fe0eb1048f9a94637/1664653443789/ (FEATURED)

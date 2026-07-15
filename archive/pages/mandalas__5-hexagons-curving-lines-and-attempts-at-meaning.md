@@ -14,3 +14,7 @@ Tesselation #5
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1607827865424-DWLCC45UHPKF90BIU0H0/PXL_20201213_023440836.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6338977d7d8d3d6827b64958/1664653433490/ (FEATURED)

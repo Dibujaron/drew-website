@@ -15,3 +15,7 @@ This one was inspired by underwater scenes. It was my first attempt to use a new
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1672150524091-ZGRNU2XWQHWSYHOYAEHX/PXL_20221126_180259144.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1672150528273-67EPOMU6KVWYDXTXEBAG/PXL_20221128_140900643.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1672150528977-TH8S2IU0ZEF1ZK28NGOO/PXL_20221129_002935193.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/63aafb973dfeaa22e61ec1fc/1672150664022/ (FEATURED)

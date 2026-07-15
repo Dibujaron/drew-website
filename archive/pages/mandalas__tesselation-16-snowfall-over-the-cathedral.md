@@ -17,3 +17,7 @@ close-up
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/b3860d11-a923-41f8-a6d2-219ca1226508/snowfall_over_cathedral_on_wall.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1614443973141-NC6471XMA2GL1WD5KNSS/snowfall_over_cathedral_small.png
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/63389a902f64e561e0b162d7/1664654302095/ (FEATURED)

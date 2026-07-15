@@ -13,3 +13,7 @@ My Grandma has long been the biggest fan of my tesselations. This one, made for 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1681522044674-2G2BFBNJOAM8FGMI8P08/PXL_20221231_195906923.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1681522049997-8Y4TH3WEFYCP8NIIXAIU/PXL_20221220_005638763.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6439fd1bd02a980ab82fff3f/1681522312999/ (FEATURED)

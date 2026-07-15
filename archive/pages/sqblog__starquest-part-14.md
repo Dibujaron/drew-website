@@ -13,3 +13,7 @@ As you can see from the ending of the last post, I wasn't planning to write anot
 ## Images on this page
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1577922644781-L42OBN8E52229Y96VHMP/dibujaron.png
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/5d3cf4bda3354c000173e4e6/5d3cf5c1a3354c000173ebaf/1575827604423/ (FEATURED)

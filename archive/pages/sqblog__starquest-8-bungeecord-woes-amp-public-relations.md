@@ -35,3 +35,7 @@ I hope you enjoyed :)
 ## Images on this page
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1577922644781-L42OBN8E52229Y96VHMP/dibujaron.png
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/5d3cf4bda3354c000173e4e6/5d3cfeb026a59500012c37c3/1564280987996/ (FEATURED)

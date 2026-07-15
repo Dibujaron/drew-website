@@ -12,3 +12,7 @@ This was the point where I began to have real success, and decided to continue t
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1612384925567-OIRT9U8V6LMDRNEETRUD/tesselation_8.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6338988d0590b6496efb8590/1664653760585/ (FEATURED)

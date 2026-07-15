@@ -17,5 +17,7 @@ Snapshot of the public content of https://drew.polstra.com (Squarespace), captur
 - `/resume` is empty on the live site (no content, only header/footer).
 - The `/memes`, `/guns-of-icarus`, and similar gallery pages store their images in gallery blocks; their images are in the "full scan" lists in each page file.
 - Pages found in the sitemap but not in the nav: `/landing`, `/frog_picture`, `/quotes-ai-generated`, `/short-stories`, `/short-writings`, `/the-loudest-alarm`, `/tesselations`, `/404`.
+- Blog posts' "featured images" (`featured__*` files, from the JSON `assetUrl`) are Squarespace's default 300×300 gray placeholder — no post has a real featured image set. All real blog images appear in post bodies and are archived. Courtship posts are text-only.
+- Blog item counts per Squarespace JSON: courtship 15 (13 published), mandalas 19 (17 published), sqblog 10 (10 published) — the gaps are unpublished drafts, not accessible publicly.
 - Site was password-protected at capture time (site-wide Squarespace password gate).
 - Footer contact: (864) 561-6481 | contact@ddpolstra.com

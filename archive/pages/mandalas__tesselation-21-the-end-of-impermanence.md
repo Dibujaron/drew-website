@@ -28,3 +28,7 @@ The first version with the additional nested white elements. This was too chaoti
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/d83144ba-3986-49b4-a1d2-e5caa51b5ecb/PXL_20230120_010535387.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/45b9b0d8-0160-4b1b-8f99-cce1f2fe46c6/PXL_20221118_024836195.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/f9073531-3754-408d-b417-df9ae970883c/PXL_20221107_004855580.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6376f317ac87527092a4c6e3/1681522578955/ (FEATURED)

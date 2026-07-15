@@ -19,3 +19,7 @@ The romance flamed out very quickly, so these days I prefer the version that has
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/558031ba-b087-42b5-912b-557877564a0a/20220908_222026.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/5f6c4f36-8b25-45ad-920d-3fe155831d42/20220910_170737.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/69b76ec9-3140-416c-82f3-29f7d2e67e4d/20220910_170743.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6338a46903e69a4c306f23f1/1668655645325/ (FEATURED)

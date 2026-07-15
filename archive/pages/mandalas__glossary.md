@@ -35,3 +35,7 @@ Nested Split: an experimental technique in which the remaining empty space in a 
 ## Images on this page
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6376fb8720649811894acbbf/1668743826649/ (FEATURED)

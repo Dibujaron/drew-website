@@ -25,3 +25,7 @@ When Holly arrived at 6, we had a lovely time. The furniture to assemble was qui
 In my journal I recorded this as “The best totally-not-a-date I’ve ever had … It was perfect.”
 
 *During this period, when I was still recovering from my extended post-pandemic social isolation, I would reward myself with a cupcake whenever I managed to go outside and socialize. Sometimes they came from 7-11, sometimes they came from Pemberton Farms.
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/660b23263463365b5607cb32/696d97de5828d54fa5c5c272/1768792530709/ (FEATURED)

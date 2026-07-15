@@ -12,3 +12,7 @@ This one started as an idle sketch, exploring new color palettes. I’d tried a 
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/ccde6032-67f0-45ba-8834-1d217186b014/PXL_20230317_023812701.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/643a0087b0593c02133061f2/1681523396732/ (FEATURED)

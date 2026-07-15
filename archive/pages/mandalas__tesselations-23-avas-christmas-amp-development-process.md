@@ -31,3 +31,7 @@ I took detailed progress pictures of the development of my sister’s, so I have
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1681521747045-NDM9189OQ1F7T9MNEIWP/PXL_20221210_000720860.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1681521748856-C7A91GWBLEECNX53GC0A/PXL_20221210_001424195.jpg
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1681521853068-FBYCJ3GMCCJDN21VYF7U/PXL_20221210_200910916.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6439d37fd79fe4289a89f463/1681521939633/ (FEATURED)

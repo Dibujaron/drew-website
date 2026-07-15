@@ -19,3 +19,7 @@ We settled on a restaurant (Foundry) and had a truly lovely dinner. The conversa
 After dinner, we all went back to Nour’s apartment to chill for awhile. We all took off our shoes by the door, and Holly sat down to take off her boots. This was the moment where I really fell for her. She took off the boots and beneath them were soft pink socks with little hearts on them. This was some contrast to the rest of her outfit, but I don’t think any of us would’ve thought much about it, except that Holly herself was shattered about it. Her carefully crafted tough-girl persona was broken! She hadn’t thought she would need to take off her shoes! This was terrible! She was laughing as she emoted her distress. The display was simultaneously carefree, joyful, and fragile. Her personality took on real depth, then, and I loved it.
 
 I went home thinking that I’d found at least a great new group of friends, and maybe a great romantic prospect as well. The gang made vague plans to meet up for karaoke again (on the right day this time). By this point I was sure that I loved karaoke, because Holly loved karaoke. So I signed up.
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/660b23263463365b5607cb32/660b233b7a1fd15a432068e7/1712453303969/ (FEATURED)

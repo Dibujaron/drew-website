@@ -13,3 +13,7 @@ It's been over 6 months since the last update here, so I guess it's well past ti
 ## Images on this page
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1577922644781-L42OBN8E52229Y96VHMP/dibujaron.png
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/5d3cf4bda3354c000173e4e6/5d3cfcf526a59500012c2fd3/1564278109220/ (FEATURED)

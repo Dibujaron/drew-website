@@ -12,3 +12,7 @@ This was the third piece I made for Christmas of 2022; this one was for my paren
 
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1664658029488-D1VUP38771I3L083H7AP/snowfall_over_cathedral_small.png
 - https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/4a47ba59-4e3b-4b74-a8e1-5943e7b740b3/IMG-20221225-WA0001.jpg
+
+## Blog item images (from Squarespace JSON)
+
+- https://static1.squarespace.com/static/5d3c7cb83781cd0001256ce2/633893d1d5d0dd6fa3d23c50/6439ffbc597bb324b616b9ce/1681522799245/ (FEATURED)
