@@ -1,0 +1,17 @@
+---
+url: https://drew.polstra.com/foobar
+title: Google Foo.Bar — Drew Polstra
+http_status: 200
+---
+
+Around finals season of Fall 2016 semester, I received an invitation via my chrome browser to Google’s foo.bar challenge. This was a coding challenge that google put together as a recruitment tool for developers. Invitations for this were sent out based on your searches. Though the timing was poor, I chose to accept the challenge. The game consisted of 5 levels. Each level consisted of one or several programming puzzles that were automatically graded. The first level consisted of only a single trivial puzzle with a 24 hour time limit. As you progressed through the levels, the challenges became more difficult, but with longer time limits. There were also several puzzles per level. After the third level, you received an invitation to a phone interview with Google. There were two more levels after that, with no defined reward for completing them. Level 5 contained only a single problem, with a month-long time limit. Up until that point, I had completed each challenge in significantly less time than the limit, so I hit “start” on the level 5 problem a week before a family vacation to New Zealand, thinking that I would finish before we left. I was very wrong. My most significant memories of New Zealand involve scribbling on scraps of paper in the back of a car traveling over mountain passes, and on a ferry crossing the violent waters of the Cook Strait.The solution ultimately required something like 25 days of constant work and substantial help from both my Uncle John and a distant relation who was a math major. The solution was beautiful, yet it ran slightly too slowly; it finished in something like 10 seconds, where google’s time limit was something like two seconds (it’s hard to remember, I kept no notes). We spent several days trying to find any way at all to further optimize it, with no success. It may be that there was an even more elegant solution, but if there was, it was far beyond us. Ultimately, I pre-generated the output for every possible input and pasted them all into a java array literal. The function that I submitted as my answer simply looked up the answer in the array, and my actual solution was included in the file as a comment. I submitted this solution on day 28, completing the hardest level of the challenge. No one has ever contacted me to tell me that I cheated, so I can only assume that this was an acceptable answer. I like to think that this was the intended answer; a sort of kobiyashi maru test.I did get a phone interview with Google, which I completely bombed. I was too nervous; it was my first interaction with a world-class software company. A Google recruiter reached out again two years later to offer me another interview, but I declined, since I was already due to start at Ab Initio.
+
+This is not my screenshot, but this is what the invitation to the game looked like.
+
+I kept no notes from this challenge and the online portal for it has reset, so the only proof I can offer is this email that I received after completing level 3.
+
+## Images on this page
+
+- https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1569543267861-ESQ648KTCT8M8NCK7XHH/google-foobar.jpg
+- https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1569463539958-8RDXMYFT74W7BZZQHL83/google-foobar.jpg
+- https://images.squarespace-cdn.com/content/v1/5d3c7cb83781cd0001256ce2/1569463515900-B03425V6Q7D7GN5BC8BO/googleinvite.png
